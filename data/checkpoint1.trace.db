@@ -1,0 +1,90 @@
+2025-03-28 20:52:27.808083-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEDIDOS" not found (this database is empty); SQL statement:
+SELECT * FROM PEDIDOS [42104-232]
+2025-03-28 20:52:36.374655-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEDIDO" not found (this database is empty); SQL statement:
+SELECT * FROM PEDIDO [42104-232]
+2025-03-28 20:52:38.037167-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEDIDO" not found (this database is empty); SQL statement:
+SELECT * FROM PEDIDO [42104-232]
+2025-03-28 20:52:42.765495-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEDIDOS" not found (this database is empty); SQL statement:
+SELECT * FROM PEDIDOs [42104-232]
+2025-03-28 20:52:55.950544-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEDIDOS" not found (this database is empty); SQL statement:
+SELECT * FROM PEDIDOS [42104-232]
+2025-03-28 20:53:08.118652-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEDIDO" not found (this database is empty); SQL statement:
+SELECT * FROM PEDIDO [42104-232]
+2025-03-28 20:53:08.813768-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEDIDO" not found (this database is empty); SQL statement:
+SELECT * FROM PEDIDO [42104-232]
+2025-03-28 20:54:52.382548-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEDIDOS" not found (this database is empty); SQL statement:
+SELECT * FROM pedidos [42104-232]
+2025-03-28 20:54:52.837910-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEDIDOS" not found (this database is empty); SQL statement:
+SELECT * FROM pedidos [42104-232]
+2025-03-28 20:54:53.070076-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEDIDOS" not found (this database is empty); SQL statement:
+SELECT * FROM pedidos [42104-232]
+2025-03-28 20:54:53.270309-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEDIDOS" not found (this database is empty); SQL statement:
+SELECT * FROM pedidos [42104-232]
+2025-03-28 20:54:53.494088-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEDIDOS" not found (this database is empty); SQL statement:
+SELECT * FROM pedidos [42104-232]
+2025-03-28 20:54:53.670285-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEDIDOS" not found (this database is empty); SQL statement:
+SELECT * FROM pedidos [42104-232]
+2025-03-28 20:54:53.854120-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEDIDOS" not found (this database is empty); SQL statement:
+SELECT * FROM pedidos [42104-232]
+2025-03-28 20:55:02.910390-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEDIDOS" not found (this database is empty); SQL statement:
+SELECT * FROM PEDIDOS [42104-232]
+2025-03-28 20:58:57.058186-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEDIDOS" not found (this database is empty); SQL statement:
+SELECT * FROM PEDIDOS [42104-232]
+2025-03-28 20:58:58.915495-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEDIDOS" not found (this database is empty); SQL statement:
+SELECT * FROM PEDIDOS [42104-232]
+2025-03-28 20:58:59.610506-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEDIDOS" not found (this database is empty); SQL statement:
+SELECT * FROM PEDIDOS [42104-232]
+2025-03-28 20:59:00.203417-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEDIDOS" not found (this database is empty); SQL statement:
+SELECT * FROM PEDIDOS [42104-232]
+2025-03-28 20:59:01.330850-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEDIDOS" not found (this database is empty); SQL statement:
+SELECT * FROM PEDIDOS [42104-232]
+2025-03-28 20:59:02.794114-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEDIDOS" not found (this database is empty); SQL statement:
+SELECT * FROM PEDIDOS [42104-232]
+2025-03-28 20:59:03.802492-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEDIDOS" not found (this database is empty); SQL statement:
+SELECT * FROM PEDIDOS [42104-232]
+2025-03-28 20:59:19.467570-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEDIDOS" not found (this database is empty); SQL statement:
+SELECT * FROM PEDIDOS [42104-232]
+2025-03-28 20:59:44.259883-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEDIDOS" not found (this database is empty); SQL statement:
+SELECT * FROM PEDIDOS [42104-232]
+2025-03-28 21:02:27.901358-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEDIDOS" not found (this database is empty); SQL statement:
+SELECT * FROM PEDIDOS [42104-232]
+2025-03-28 21:02:28.220456-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEDIDOS" not found (this database is empty); SQL statement:
+SELECT * FROM PEDIDOS [42104-232]
+2025-03-28 21:02:28.412208-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEDIDOS" not found (this database is empty); SQL statement:
+SELECT * FROM PEDIDOS [42104-232]
+2025-03-28 21:02:29.028035-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEDIDOS" not found (this database is empty); SQL statement:
+SELECT * FROM PEDIDOS [42104-232]
+2025-03-28 21:02:29.211933-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEDIDOS" not found (this database is empty); SQL statement:
+SELECT * FROM PEDIDOS [42104-232]
+2025-03-28 21:02:29.396049-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEDIDOS" not found (this database is empty); SQL statement:
+SELECT * FROM PEDIDOS [42104-232]
